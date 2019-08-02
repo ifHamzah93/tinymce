@@ -1,0 +1,1 @@
+{"result":{"text":"1 over partial differential"},"status":"ok"}
